@@ -2,6 +2,7 @@ package relicfragments.cognize.concept
 import relicfragments.cognize.basic.HashMapList
 
 class Describe extends HashMapList[String,Attribute] {
+  override def toString():String = toStringBefore("的", "  ");
 }
 
 object Describe extends Enumeration {
