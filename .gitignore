@@ -1,0 +1,10 @@
+/bin/
+.worksheet/
+
+.classpath
+
+.cache-main
+
+.settings/org.eclipse.jdt.core.prefs
+
+.project
